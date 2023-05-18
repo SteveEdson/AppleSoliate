@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/apple",
+    "name": "phone2fork/apple",
     "description": "Apple OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "keywords": [
